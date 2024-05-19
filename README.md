@@ -1,17 +1,11 @@
-<h1 align="center">Hi 👋, I'm Zaian</h1>
+<h2 align="center">Hi 👋, I'm Zaian</h1>
 <h3 align="center">A passionate Digitalization product guy</h3>
-
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/abdelrahman-zaian/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
 ---
----
-
 <div align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cute Cat" width="200" height="200"/>
 </div>
