@@ -5,11 +5,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
 ---
+
 <div align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cute Cat" width="200" height="200"/>
 </div>
+
 ---
+
 <h3>🛠️ Languages and Tools:</h3>
 
 <h4>🤖 Machine Learning</h4>
