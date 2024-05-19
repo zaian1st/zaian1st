@@ -10,7 +10,12 @@
 </p>
 
 ---
+---
 
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cute Cat" width="200" height="200"/>
+</div>
+---
 <h3>🛠️ Languages and Tools:</h3>
 
 <h4>🤖 Machine Learning</h4>
@@ -74,13 +79,6 @@
   </a>
 </p>
 
----
 
-<div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cute Cat" width="200" height="200"/>
-</div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" alt="Cute Dog" width="200" height="200"/>
-</div>
 
