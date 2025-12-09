@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Zaian</h1>
-<h3 align="center">A passionate Digitalization product guy</h3>
+<h3 align="center">A passionate AI guy</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/abdelrahman-zaian/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
