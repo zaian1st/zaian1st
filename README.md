@@ -111,19 +111,8 @@
 [![Portfolio](https://img.shields.io/badge/⬡_VIEW_ALL_PROJECTS-7c3aed?style=for-the-badge&logoColor=white&labelColor=0a0a0f)](https://zaianabdelrahman.com)
 
 > All projects, case studies, and technical deep-dives live at **[zaianabdelrahman.com](https://zaianabdelrahman.com)**
-
+> "The best way to predict the future is to build it. Bridging AI research and real-world production systems.
 </div>
 
----
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  "The best way to predict the future is to build it."        ║
-║   — Bridging AI research and real-world production systems.  ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
 
