@@ -116,11 +116,12 @@
 
 ---
 
+<div align="center">
 ```
-                                    ╔══════════════════════════════════════════════════════════════╗
-                                    ║  "The best way to predict the future is to build it."        ║
-                                    ║   — Bridging AI research and real-world production systems.  ║
-                                    ╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║  "The best way to predict the future is to build it."        ║
+║   — Bridging AI research and real-world production systems.  ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
