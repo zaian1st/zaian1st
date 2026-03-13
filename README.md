@@ -103,7 +103,7 @@
 
 ![Scrum](https://img.shields.io/badge/SCRUM_MASTER-7c3aed?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
-</div>
+<div align="center">
 
 ---
 ### ◈ FULL PROJECT ARCHIVE ◈
@@ -119,10 +119,10 @@
 <div align="center">
 
 ```
-                              ╔══════════════════════════════════════════════════════════════╗
-                              ║  "The best way to predict the future is to build it."        ║
-                              ║   — Bridging AI research and real-world production systems.  ║
-                              ╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║  "The best way to predict the future is to build it."        ║
+║   — Bridging AI research and real-world production systems.  ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
